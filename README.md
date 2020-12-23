@@ -4,5 +4,4 @@ I'm Hector, a first year medical student at <a href="https://www5.usp.br/#englis
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/?username=HectorKroes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="45%" alt="HectorKroes" align='left' />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorKroes&hide=Java&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="HectorKroes" align='right' />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorKroes&hide=Java&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="HectorKroes" align='center' />
