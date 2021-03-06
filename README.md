@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm Hector, a first year medical student at <a href="https://www5.usp.br/#english">Universidade de São Paulo (USP)</a> in love with molecular genetics and genomics. I've been exploring bioinformatics and programming in general recently, so this GitHub profile is the consequence of that.
+I'm Hector, a second year medical student at <a href="https://www5.usp.br/#english">Universidade de São Paulo (USP)</a> in love with molecular genetics and genomics. I've been exploring bioinformatics and programming in general recently, so this GitHub profile is the consequence of that.
 
 ---
 
